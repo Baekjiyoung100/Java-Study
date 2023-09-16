@@ -15,7 +15,7 @@ public class _03_Variables {
         //실수//
         double score = 90.5;
         char grade = 'A'; //한 글자 문자
-        name = "이태윤"; //이미 선언된 변수의 값을 업데이트
+        name = "이00"; //이미 선언된 변수의 값을 업데이트
         System.out.println(name + "의 점수: " + score + "/ 학점: " + grade);
 
         boolean pass = true;
